@@ -1,2 +1,5 @@
-# Python_Blockade
+# 前言
+ 使用Python開發Blockade(封鎖線)遊戲
+
+# 範例詳細說明請參考以下連接   
 【Python】那些年我們一起玩過的遊戲(四)-貪吃蛇(上)
